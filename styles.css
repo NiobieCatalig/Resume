@@ -61,5 +61,8 @@ body {
   /* Optional: overlay for better text contrast */
   position: relative;
   min-height: 100vh;
+
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: large;
 }
 
