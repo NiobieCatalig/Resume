@@ -13,6 +13,14 @@
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
 }
 
+.resumecontent {
+  background-color: #ffffff;
+  border-radius: 12px;
+  max-width: 900px;
+  width: 100%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
 /* Profile picture wrapper with border and background */
 .profile-pic-wrapper {
   padding: 5px;
@@ -48,10 +56,3 @@
   text-decoration: underline;
 }
 
-.bordered-box {
-  border: 2px solid #00C6FF; /* matching the gradient accent color */
-  border-radius: 12px;
-  padding: 15px;
-  background-color: #f9fcff; /* very light blueish background */
-  margin-bottom: 30px;
-}
